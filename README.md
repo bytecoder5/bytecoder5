@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to My Github.</h1>
-<h3 align="center">Full-Stack | Mobile developer </h3>
+<h3 align="center">Full-Stack Web | Mobile developer </h3>
 <div>Senior developer with 10 years of experience</div>
 <div>Amazing collaboration and problem solving ability</div>
 
